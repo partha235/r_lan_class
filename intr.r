@@ -1,1 +1,2 @@
-print('saga')
+print("saga")
+cat("saga")

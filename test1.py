@@ -1,2 +1,2 @@
 x=input("enter x")
-print(x)
+print("x=",x)
