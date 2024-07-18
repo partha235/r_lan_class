@@ -12,7 +12,7 @@ pizza <- function(s_name, p_type)  {
 
 hos_x <- function(p_name, p_diseases) {
     if (p_diseases== "sugar") {
-        print("meeet doctor vasanthi")
+        print("meet doctor vasanthi")
     } else if (p_diseases == "heart") {
         print("meet doctor bala")
     } else {

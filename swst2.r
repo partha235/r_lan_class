@@ -1,4 +1,4 @@
-x <- readline("enter character\n")
+x <- readline("enter operator")
 x <- as.character(x)
 w <- 5
 e <- 2
@@ -9,4 +9,4 @@ s <- switch(x,
 "*" = w*e,
 "/" = w/e,
 "try again")
-print(s)
+print(s) 
