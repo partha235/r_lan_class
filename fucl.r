@@ -5,10 +5,10 @@ lift <- function(x) {
 pizza <- function(s_name, p_type)  {
     cat("you have ordered", p_type, " pizza from", s_name, "\n")
 }
+
 # x <- readline("enter shop name\n")
 # y <- readline("enter pizza type\n")
 # pizza(s_name = x, p_type = y)
-
 
 hos_x <- function(p_name, p_diseases) {
     if (p_diseases== "sugar") {
