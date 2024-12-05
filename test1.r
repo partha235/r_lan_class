@@ -1,6 +1,6 @@
-print("enter name")
-x <- readLines("stdin",1)  # string
-b <- "hi"
-if (x == b) {
-  print("x is same as b")
+x <- 5
+while(x <= 10)   # run until false
+{
+    cat(x, "I'm groot\n")
+    x <- x+1   
 }

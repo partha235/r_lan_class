@@ -1,5 +1,5 @@
-x <- readline("enter operator")
-x <- as.character(x)
+print("enter character")
+x <- readLines("stdin",1)
 w <- 5
 e <- 2
 print(x)

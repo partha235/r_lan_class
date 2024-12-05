@@ -1,4 +1,5 @@
-x <- readline("enter character\n")
+print("enter character")
+x <- readLines("stdin",1)
 x <- as.character(x)
 print(x)
 s <- switch(x,
